@@ -31,9 +31,18 @@
 .navbar{
     height: 50px;
     background-color: salmon;
+    margin-bottom: 20px;
 }
 
 ul.unstyle_list li {
     display: inline-block;
     margin: 10px 5px 10px 0;
+}
+
+.presentation{
+    height: 500px;
+    width: 100%;
+    background-color: orchid;
+    margin-top: 20px;
+    border-radius: 10px;
 }
