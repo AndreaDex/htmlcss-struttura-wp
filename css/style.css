@@ -17,7 +17,23 @@
     margin: auto;
 }
 
+.unstyle_list{
+    list-style: none;
+}
+
+/* header style */
 .logo{
     height: 100px;
+    width: 100%;
     background-color: rebeccapurple;
+}
+
+.navbar{
+    height: 50px;
+    background-color: salmon;
+}
+
+ul.unstyle_list li {
+    display: inline-block;
+    margin: 10px 5px 10px 0;
 }
