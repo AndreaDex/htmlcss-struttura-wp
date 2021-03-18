@@ -67,7 +67,7 @@ ul.unstyle_list li {
 
 /* section style */
 .sb_left, .sb_right{
-    height: 100px;
+    height: 200px;
     width: 25%;
     float: left;
     background-color: gold;
@@ -75,7 +75,7 @@ ul.unstyle_list li {
 }
 
 .content{
-    height: 100px;
+    height: 200px;
     width: 50%;
     background-color: purple;
     float: left;
